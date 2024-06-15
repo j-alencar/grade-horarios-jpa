@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/grade-horarios-jpa-main.iml" filepath="$PROJECT_DIR$/.idea/grade-horarios-jpa-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa-th-service/jpa_th_service.iml" filepath="$PROJECT_DIR$/jpa-th-service/jpa_th_service.iml" />
+    </modules>
+  </component>
+</project>
